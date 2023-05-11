@@ -1,6 +1,5 @@
 ---
 title: Декамерон
-date: 2023-05-11 8:00 +0200
 categories: [Literature]
 tags: [renaissance]
 ---
