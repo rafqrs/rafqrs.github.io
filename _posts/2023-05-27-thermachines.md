@@ -25,8 +25,8 @@ $$
 А = Q_T - Q_C
 $$
 $$
-\eta = \frac{A}{Q_T} = \frac{Q_T - Q_C}{Q_T} = \left(1 - \frac{Q_C}{Q_T}\right) %
+\eta = \frac{A}{Q_T} = \frac{Q_T - Q_C}{Q_T} = \left(1 - \frac{Q_C}{Q_T}\right) \%
 $$
 
-> $$\eta < 100%$$
+> $$\eta < 100\%$$
 {: .prompt-warning }
